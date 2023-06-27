@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
 </p>
 
-<h1 align="center">I'm Aarti 👋</h1>
+<h1 align="center">Hej! I'm Aarti 👋</h1>
 <h3 align="center">I love programming, writing, reading and traveling.</h3>
 
 <h2 align = "left"> Let's Talk! </h2>
