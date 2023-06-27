@@ -49,7 +49,7 @@
 
 <p><img align=left" src="https://github-readme-streak-stats.herokuapp.com/?user=4artiseth&" alt="4artiseth" /></p>
 
-![Snake animation](https://github.com/{{your_username}}/4artiseth/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/4artiseth/4artiseth/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
