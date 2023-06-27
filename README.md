@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hej!&height=100&section=header"/>
+  <img src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
 </p>
 
 <h1 align="center">I'm Aarti 👋</h1>
-<h3 align="center">I love programming, writing, reading and traveling.</h3><br>
-
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+<h3 align="center">I love programming, writing, reading and traveling.</h3>
 
 <h2 align = "left"> Let's Talk! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
