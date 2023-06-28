@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns and such.**
 
-- 👯 Always Excited to collaborate on **Hackathons** and create something amazing together!
+- 👯 Always excited to collaborate on **Hackathons** and create something amazing together!
 
 - 📝 I also regularly blog my views on anything that has a lot of Buzz on the net.
   
