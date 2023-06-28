@@ -3,26 +3,27 @@
 </p>
 
 <h1 align="center">Hej! I'm Aarti 👋</h1>
-<h3 align="center">I love programming, writing, reading and traveling.</h3>
+<h3 align="center">I love programming and have a passion for writing, reading and traveling!! </h3>
 
 <h2 align = "left"> Let's Talk! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
 
 
-- 🔭 I’m currently working on **Decentralized crowdfunding platform using smart contracts**
+- 🔭 I’m currently working on **a decentralized crowdfunding platform using smart contracts.**
 
-- 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns**
+- 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns etc.**
 
 - 👯 I’m looking to collaborate and work  in **Hackathons!!**
 
-- 📝 I regularly write articles on my views on anything that has a lot of Buzz on the net
+- 📝 I regularly write articles on my views on anything that has a lot of Buzz on the net.
+  
+- ⚡ Fun fact: **I hate tea!**
 
-- 💬 Ask me about **Dark Jokes**
+- 💬 Passionate about **Dark Jokes?** Let's share a laugh!
 
-- 📫 How to reach me **aarti1seth@outlook.com**
+- 📫 How to reach me **aarti1seth@outlook.com or connect with me **below!**
 
-- ⚡ Fun fact **I HATE tea!**
-
+<br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/aartisxsly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aartisxsly" height="30" width="40" /></a>
