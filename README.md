@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on my project on **a decentralized crowdfunding platform using smart contracts.**
 
-- 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns etc.**
+- 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns and such.**
 
-- 👯 Excited to collaborate on **Hackathons** and create something amazing together!
+- 👯 Always Excited to collaborate on **Hackathons** and create something amazing together!
 
 - 📝 I also regularly blog my views on anything that has a lot of Buzz on the net.
   
 - ⚡ Another Fun fact: **I hate tea!**
 
-- 💬 Passionate about **Dark Jokes?** Let's share a laugh!
+- 💬 Passionate about **Dark Jokes??** Let's share a laugh!
 
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
 
