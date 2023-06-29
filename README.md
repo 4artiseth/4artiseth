@@ -19,7 +19,7 @@
   
 - ⚡ Another Fun fact: **I hate tea!**
 
-- 💬 Passionate about **Dark Jokes??** Let's share a laugh!
+- 💬 Passionate about **Dark Jokes?** Let's share a laugh!
 
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
 
