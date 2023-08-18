@@ -9,16 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
 
 
-- 🔭 I’m currently working on my project on **a decentralized crowdfunding platform using smart contracts.**
+- 🔭 I’m currently working on my project on **decentralized crowdfunding platform using smart contracts.**
 
-- 🌱 I’m currently learning **Caching, Containerization vs Virtualization, Architectural Patterns and such.**
+- 🌱 I’m currently learning **Architectural Patterns**
 
-- 👯 Always excited to collaborate on **Hackathons** and create something amazing together!
-
-- 📝 I also regularly blog my views on anything that has a lot of Buzz on the net.
+- 👯 I am always excited to collaborate on **Hackathons** and create something amazing together!
   
-- ⚡ Another Fun fact: **I hate tea!**
-
 - 💬 Passionate about **Dark Jokes?** Let's share a laugh!
 
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
