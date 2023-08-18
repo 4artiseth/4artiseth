@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hej! I'm Aarti 👋</h1>
-<h3 align="center">I love programming and have a passion for writing, reading and traveling!! </h3>
+<h3 align="center"> Built with a love of programming, reading and traveling! </h3>
 
 <h2 align = "left"> Let's Talk! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
@@ -15,7 +15,7 @@
 
 - 👯 I am always excited to collaborate on **Hackathons** and create something amazing together!
   
-- 💬 Passionate about **Dark Jokes?** Let's share a laugh!
+- 💬 Passionate about **Dark Jokes?** Let's share a laugh
 
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
 
