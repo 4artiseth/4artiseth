@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on my project on **decentralized crowdfunding platform using smart contracts.**
 
-- 🌱 I’m currently learning **Architectural Patterns**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I am always excited to collaborate on **Hackathons** and create something amazing together!
+- 👯 Always excited to collaborate on **Hackathons** and create something amazing together!
   
 - 💬 Passionate about **Dark Jokes?** Let's share a laugh
 
