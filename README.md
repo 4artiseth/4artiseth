@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
 
 
-- 🔭 Currently working on building a **decentralized crowdfunding platform.**
+- 🔭 I am currently working on building a **decentralized crowdfunding platform.**
 
-- 🌱 Lately grinding **DSA questions**.
+- 🌱 Cab find me grinding on **DSA** or watching dog videos.
 
-- 🧵 Wanna start building your network?
+- 🧵 Wanna start building your network and connect?
   
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
 
