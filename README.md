@@ -9,12 +9,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
 
 
-- 🔭 I’m currently working on my project on **decentralized crowdfunding platform using smart contracts.**
+- 🔭 working on building a **decentralized crowdfunding platform.**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Currently learning **DSA** and building socials.
   
-- 💬 Passionate about **Dark Jokes?** Let's share a laugh
-
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
 
 <br>
