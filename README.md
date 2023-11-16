@@ -11,7 +11,7 @@
 
 - 🔭 I am currently working on building a **decentralized crowdfunding platform.**
 
-- 🌱 Cab find me grinding on **DSA** or watching dog videos.
+- 🌱 You can find me grinding on **DSA** or watching dog videos.
 
 - 🧵 Wanna start building your network and connect?
   
