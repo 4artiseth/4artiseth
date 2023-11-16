@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif"/>
 </p>
 
-<h1 align="center">Hej! I am Aarti 👋</h1>
-<h3 align="center">  Bringing a passion for learning </h3>
+<h1 align="center">HI! I am Aarti 👋</h1>
+<h3 align="center">  Bringing a passion for learning! </h3>
 
 <h2 align = "left"> Let's Talk! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4artiseth&label=Profile%20views&color=0e75b6&style=flat" alt="4artiseth" /> </p>
