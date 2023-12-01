@@ -13,6 +13,8 @@
 
 - 🌱 You can find me grinding on **DSA** or watching dog videos.
 
+- 🏆 Currently working on a **decentralised crowdfunding platform**
+
 - 🧵 Wanna start building your network and connect?
   
 - 📫 Reach me at aarti1seth@outlook.com or at my socials **below!**
