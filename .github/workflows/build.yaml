@@ -16,7 +16,7 @@ jobs:
       - name: Get Python 3.8
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8'
+          python-version: "3.8"
       - name: Configure pip cache
         uses: actions/cache@v2
         with:
@@ -34,7 +34,7 @@ jobs:
         run: |-
           git add .
           git diff
-          git config --global user.email "github-actions-bot@andrew6rant.github.io"
-          git config --global user.name "Andrew6rant/GitHub-Actions-Bot"
+          git config --global user.email "github-actions-bot@4artiseth.github.io"
+          git config --global user.name "4artiseth/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
           git push
