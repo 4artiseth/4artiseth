@@ -49,6 +49,6 @@ jobs:
         run: |
           git config --global user.email "github-actions-bot@4artiseth.github.io"
           git config --global user.name "4artiseth/GitHub-Actions-Bot"
-          git add light_mode.svg dark_mode.svg
+          git add light_mode.svg dark_mode.svg cache/
           git diff --cached --quiet || git commit -m "chore: auto-update README stats [skip ci]"
           git push
